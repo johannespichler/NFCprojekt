@@ -8,6 +8,6 @@
 	<author email="pichler.johannes97@gmail.com" href="http://phonegap.com">
 	   Private User
 	</author>
-
+	<gap:plugin name="phonegap-nfc" source="npm" />
 	<preference name="phonegap-version" value="cli-6.0.0" />
 </widget>
