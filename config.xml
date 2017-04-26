@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="it.tfobz.NFCApp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+	<name>NFC App</name>
+	<description>
+		This App sends data through NFC.
+	</description>
+
+	<author email="pichler.johannes97@gmail.com" href="http://phonegap.com">
+	   Private User
+	</author>
+
+	<preference name="phonegap-version" value="cli-6.0.0" />
+</widget>
